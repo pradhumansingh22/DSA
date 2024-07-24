@@ -18,7 +18,6 @@ class Node {
 
 }
 
-
 public class insertNodeInLL {
 
     public static Node insertNode(Node head, int data, int k) {
